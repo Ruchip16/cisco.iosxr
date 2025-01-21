@@ -55,13 +55,6 @@ nodes:
       interface GigabitEthernet0/0/0/0
        shutdown
       !
-      interface preconfigure GigabitEthernet0/0/0/1
-       negotiation auto
-       shutdown
-      !
-      interface preconfigure GigabitEthernet0/0/0/2
-       shutdown
-      !
       router static
        address-family ipv4 unicast
         0.0.0.0/0 192.168.255.1
