@@ -21,7 +21,7 @@ nodes:
        group root-lr
        group sysadmin
        secret 10 $6$r9zWl1mjMw94Dl1.$V7Xh1CuqtHHEbfRjHqFjZlMnFrjCivkjbSYPoH/S6MjQBR.r/G3sFk3PQre.TsnSpfy.hKf.35Tclt8KkRzaQ.
-       password 7 05080F1C2243
+       password 7 13041901020E082F7A767B
       !
       aaa authentication login default local
       cdp
